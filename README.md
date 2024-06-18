@@ -3,7 +3,7 @@ Currency Exchange API Integration pet project
 
 to run project ,  you need these dependencies
 
-1. please add your api key to .env file , you can get your key from : https://api.freecurrencyapi.com 
+1. please add your api key to .env file , you can get your key from : https://freecurrencyapi.com 
 2. install these dependencies , note : install npm first
 
 npm install express axios dotenv 
